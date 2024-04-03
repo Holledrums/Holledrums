@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Holledrums
-- 👀 I’m interested in cycling | climbing | jogging (looking forward to run my first half marathon) | drumming in my band
-- 🌱 I’m currently learning WebDev @ DCI 
-- 💞️ I'm not sure yet who I would like to work with, but what is important to me at this point is sustainability and an overall ecological view.
-- 📫 How to reach me: on Twitter or Instagram @holledrums
+- 👀 I’m interested in cycling | climbing | running  | drumming in my band
+- 🌱 I’m currently an employee at dotSource SE  
+- 💞️ what is important to me at this point is sustainability and an overall ecological view.
+- 📫 How to reach me: Instagram @holledrums
 ---
 ## Languages and Tools:
 <p align="left">
@@ -13,6 +13,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://sass.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp" width="45" height="45">
+    <a href=https://nestjs.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" width="45" height="45">
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
   <a href="https://icons8.com/icon/74402/mongodb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/38/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/></a>
 </p>
